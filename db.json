@@ -2,7 +2,7 @@
   "todos":[
     {"id":1,
     "title":"test"},
-    "id":2,
+    {"id":2,
     "title":"test2"}
   ]
 }
